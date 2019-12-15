@@ -1,0 +1,15 @@
+.jumbotron {
+	margin-top: 200px;
+	background-color: transparent;
+}
+
+.jumbotron .display-4 {
+	color: black;
+	font-weight: 200px;
+	font-family: arial;
+}
+
+.jumbotron .lead {
+	color: black;
+	font-weight: lighter;
+}
